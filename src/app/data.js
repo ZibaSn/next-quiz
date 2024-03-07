@@ -47,8 +47,8 @@ export const test = {
     {
       id: 2,
       question: 'Whats it? 2 + 2',
-      answers: ['5', '11', '22', 'tow + tow'],
-      correctAnswer: 'tow + tow',
+      answers: ['5', '11', '22', 'two + two'],
+      correctAnswer: 'two + two',
     },
     {
       id: 3,
